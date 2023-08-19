@@ -7,4 +7,4 @@ https://www.ilpost.it/2023/07/31/obbligo-prezzo-medio-distributori-benzina/
 
 ## Risultati
 
-![plots](imaghe.png)
+![plots](image.png)
